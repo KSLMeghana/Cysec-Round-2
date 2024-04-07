@@ -1,0 +1,22 @@
+.futtr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(131, 125, 125);
+}
+
+.futtr ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.futtr .download img {
+    height: 50px;
+    width: 100px;
+    color: black;
+}
+.subscribe button {
+    width: 150px;
+    height: 10px;
+    border-radius: 15px;
+  }
